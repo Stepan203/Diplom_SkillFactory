@@ -20,4 +20,5 @@ SCAN (https://scan-interfax.ru/) - это система Международн�
   - LinearSVC
   - Методы зибыточной выборки (RandomOverSampler, SMOTE)
   Метод поиска оптимальных параметров GridSearchCV
-  Также попробовал применить transformers от  Huggingface
+  Ансамблевые методы классификации (StackingClassifier)
+  Также попробовал применить transformers от  Huggingface ("cointegrated/rubert-tiny", "DeepPavlov/rubert-base-cased-sentence", )
